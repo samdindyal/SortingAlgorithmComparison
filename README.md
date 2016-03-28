@@ -1,13 +1,3 @@
-<script>
-	function writeRow(row) {
-		document.write("<tr>");
-		for (var i = 0; i < row.length; i++)
-			document.write("<td align=\"center\">" + row[i] + "</td>");
-		document.write("</tr>");
-	}
-	
-</script> 
-
 ###*Farzad Vafaeinezhad, Sam Dindyal*
 --
 #Advanced Algorithms(CPS616) Assignment
@@ -70,27 +60,87 @@ Therefore, for all values of n &le; 35, it is better to use slow sort. The data 
 	<th><code>fastsort</code></th>
 </tr>
 
-<script>
-	writeRow([ 10 , 211 , 641]);
-	writeRow([ 20 , 832 ," 1,046 "]);
-	writeRow([ 50 ," 4,811 "," 2,590 "]);
-	writeRow([ 100 ," 17,127 "," 5,448 "]);
-	writeRow([ 200 ," 59,484 "," 11,512 "]);
-	writeRow([ 500 ," 329,049 "," 31,683 "]);
-	writeRow([" 1,000 "," 1,236,118 "," 63,865 "]);
-	writeRow([" 2,000 "," 4,768,017 "," 124,500 "]);
-	writeRow([" 5,000 "," 30,455,982 "," 318,814 "]);
-	writeRow([" 10,000 "," 137,170,419 "," 630,194 "
-]);
-	writeRow([" 20,000 "," 609,172,356 "," 1,326,659 "
-]);
-	writeRow([" 50,000 "," 3,964,567,009 "," 3,439,664 "
-]);
-	writeRow([" 100,000 "," 15,930,529,921 "," 7,032,603 "]);
-	writeRow([" 200,000 "," 63,658,762,894 "," 14,837,992 "]);
-	writeRow([" 500,000 "," 397,349,597,058 "," 42,573,181 "]);
-	writeRow([" 1,000,000 "," 1,594,043,609,832 "," 86,751,919 "]);
-</script>
+<tr>
+<td align="center">10</td>
+<td align="center">211</td>
+<td align="center">641</td>
+</tr>
+<tr>
+<td align="center">20</td>
+<td align="center">832</td>
+<td align="center"> 1,046 </td>
+</tr>
+<tr>
+<td align="center">50</td>
+<td align="center"> 4,811 </td>
+<td align="center"> 2,590 </td>
+</tr>
+<tr>
+<td align="center">100</td>
+<td align="center"> 17,127 </td>
+<td align="center"> 5,448 </td>
+</tr>
+<tr>
+<td align="center">200</td>
+<td align="center"> 59,484 </td>
+<td align="center"> 11,512 </td>
+</tr>
+<tr>
+<td align="center">500</td>
+<td align="center"> 329,049 </td>
+<td align="center"> 31,683 </td>
+</tr>
+<tr>
+<td align="center"> 1,000 </td>
+<td align="center"> 1,236,118 </td>
+<td align="center"> 63,865 </td>
+</tr>
+<tr>
+<td align="center"> 2,000 </td>
+<td align="center"> 4,768,017 </td>
+<td align="center"> 124,500 </td>
+</tr>
+<tr>
+<td align="center"> 5,000 </td>
+<td align="center"> 30,455,982 </td>
+<td align="center"> 318,814 </td>
+</tr>
+<tr>
+<td align="center"> 10,000 </td>
+<td align="center"> 137,170,419 </td>
+<td align="center"> 630,194 </td>
+</tr>
+<tr>
+<td align="center"> 20,000 </td>
+<td align="center"> 609,172,356 </td>
+<td align="center"> 1,326,659 </td>
+</tr>
+<tr>
+<td align="center"> 50,000 </td>
+<td align="center"> 3,964,567,009 </td>
+<td align="center"> 3,439,664 </td>
+</tr>
+<tr>
+<td align="center"> 100,000 </td>
+<td align="center"> 15,930,529,921 </td>
+<td align="center"> 7,032,603 </td>
+</tr>
+<tr>
+<td align="center"> 200,000 </td>
+<td align="center"> 63,658,762,894 </td>
+<td align="center"> 14,837,992 </td>
+</tr>
+<tr>
+<td align="center"> 500,000 </td>
+<td align="center"> 397,349,597,058 </td>
+<td align="center"> 42,573,181 </td>
+</tr>
+<tr>
+<td align="center"> 1,000,000 </td>
+<td align="center"> 1,594,043,609,832 </td>
+<td align="center"> 86,751,919 </td>
+</tr>
+
 <table>
 
 
