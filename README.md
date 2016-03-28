@@ -4,7 +4,7 @@
 
 <br>
 
-*Which O(n<sup>2</sup>) are you implementing in this assignment?*
+***Which O(n<sup>2</sup>) are you implementing in this assignment?***
 
 <input type="checkbox" disabled checked> <b>Bubble Sort</b><br>
 <input type="checkbox" disabled> Insertion Sort<br>
@@ -12,7 +12,8 @@
 <input type="checkbox" disabled> Other<input placeholder="Other" disabled></input>
 
 <br>
-*Which O(nlogn) algorithm are you implementing in this assignment?*
+
+***Which O(nlogn) algorithm are you implementing in this assignment?***
 
 <input type="checkbox" disabled checked> <b>Merge Sort</b><br>
 <input type="checkbox" disabled> Quick Sort<br>
@@ -26,6 +27,7 @@
 Graphing the values with a logarithmic x-axis provides for a better view of both functions, especially pertaining to the values of the nlogn function. Just like the nlogn function, its values are sparse in terms of their x values which makes a logarithmic x-axis perfect for displaying as many values as possible. In contrast to using the <code>plot</code> function, the <code>loglog</code> function horizontally compresses the graph.
 
 <br>
+
 ####<code>plot</code> Graph
 ![](img/plot.png)
 
@@ -36,6 +38,7 @@ Graphing the values with a logarithmic x-axis provides for a better view of both
 Similar to the previous question however more so pertaining to the values of the n<sup>2</sup> function. By using the <code>semilogx</code> function to graph both functions, we can see that, although all of the x values are visible at a reasonable scale, they just appear as a flat line and vertically compressed. The values do not form a very visible form of any sort and it's hard to differentiate between the two functions at times. Graphing both functions on a logarithmic y-axis allows the values to be more distinguishable in terms of their y values.
 
 <br>
+
 ####<code>semilogx</code> Graph
 ![](img/semilogx.png)
 
