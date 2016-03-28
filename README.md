@@ -16,21 +16,18 @@
 
 *Which O(n<sup>2</sup>) are you implementing in this assignment?*
 
-<form>
-
-<input type="checkbox" disabled checked> Bubble Sort<br>
+<input type="checkbox" disabled checked> <b>Bubble Sort</b><br>
 <input type="checkbox" disabled> Insertion Sort<br>
 <input type="checkbox" disabled> Selection Sort<br>
-<input type="checkbox" disabled><input placeholder="Other" disabled></input>
-</form>
+<input type="checkbox" disabled> Other<input placeholder="Other" disabled></input>
 
 <br>
 *Which O(nlogn) algorithm are you implementing in this assignment?*
 
-<input type="checkbox" disabled checked> Merge Sort<br>
+<input type="checkbox" disabled checked> <b>Merge Sort</b><br>
 <input type="checkbox" disabled> Quick Sort<br>
 <input type="checkbox" disabled> Heap Sort<br>
-<input type="checkbox" disabled><input placeholder="Other" disabled></input>
+<input type="checkbox" disabled> Other<input placeholder="Other" disabled></input>
 
 <br>
 
