@@ -16,10 +16,13 @@
 
 *Which O(n<sup>2</sup>) are you implementing in this assignment?*
 
+<form>
+
 <input type="checkbox" disabled checked> Bubble Sort<br>
 <input type="checkbox" disabled> Insertion Sort<br>
 <input type="checkbox" disabled> Selection Sort<br>
 <input type="checkbox" disabled><input placeholder="Other" disabled></input>
+</form>
 
 <br>
 *Which O(nlogn) algorithm are you implementing in this assignment?*
