@@ -1,6 +1,6 @@
-###*Farzad Vafaeinezhad, Sam Dindyal*
+### *Sam Dindyal*
 --
-#Advanced Algorithms(CPS616) Assignment
+# Advanced Algorithms(CPS616) Assignment
 
 <br>
 
@@ -28,7 +28,7 @@ Graphing the values with a logarithmic x-axis provides for a better view of both
 
 <br>
 
-####<code>plot</code> Graph
+#### <code>plot</code> Graph
 ![](img/plot.png)
 
 <br>
@@ -39,7 +39,7 @@ Similar to the previous question however more so pertaining to the values of the
 
 <br>
 
-####<code>semilogx</code> Graph
+#### <code>semilogx</code> Graph
 ![](img/semilogx.png)
 
 <br>
@@ -157,7 +157,7 @@ We found the following values for our coefficients: <br>
 *F = 30*
 
 <br>
-####<code>loglog</code> Graph
+#### <code>loglog</code> Graph
 ![](img/loglog.png)
 
 <br>
