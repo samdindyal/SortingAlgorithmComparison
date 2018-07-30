@@ -1,5 +1,5 @@
 /*		Title: "Assignment.java"
- *	 	Author(s): Sam Dindyal, Farzad Vafaeinezhad
+ *	 	Author(s): Sam Dindyal
  *	 	Description: The Assignment class is a static class written for an assignment on sorting algorithms for an Advanced Algorithms course, CPS616.
  *	 	Date Written: March, 2016
  */  
